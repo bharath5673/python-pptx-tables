@@ -1,0 +1,2 @@
+python-pptx
+pptx_tables==0.1.0
