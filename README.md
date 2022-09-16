@@ -143,7 +143,7 @@ tbl7.save_pptx(os.path.join(here, "docs", "test7.pptx"))
 ![](/docs/test7.png)
 
 
-#### Pptx-tables multipage
+#### Pptx-tables multislide
 -----------------
 ```
 from pptx import Presentation
